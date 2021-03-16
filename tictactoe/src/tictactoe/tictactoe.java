@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class tictactoe {
 
 	public static void main(String[] args) {
-		//main method1
+		//main method12
 		
 	}
 

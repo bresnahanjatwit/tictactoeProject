@@ -4,7 +4,7 @@ public class tictactoe {
 	     public static void main(String[] args) {
 
 
-	         System.out.println("Welcome to Tickle Tackle Toe!!! :D");
+	         System.out.println("Welcome to Tic Tac Toe!");
 	         System.out.println();
 
 	         String marker1 = "x";

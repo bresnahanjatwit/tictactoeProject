@@ -1,5 +1,5 @@
 package tictactoe;
 
-public class player1 {
+public class player1 extends Player{
 
 }

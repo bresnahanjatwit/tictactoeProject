@@ -17,7 +17,7 @@ public class tictactoe {
 	         computer computer = new computer();
 
 	         while(playAgain){
-	             set Setup = new set();
+	             board Setup = new board();
 
 	             Setup.createBoard();
 	             Setup.printBoard();
